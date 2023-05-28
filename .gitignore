@@ -1,0 +1,5 @@
+config.yaml
+cron.sh
+.env
+.blacklist
+*.swp
